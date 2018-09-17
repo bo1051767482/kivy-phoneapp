@@ -1,0 +1,26 @@
+#这是kivy开发环境需要安装的包，安装时使用pip -r  此文件名字  即可按顺序安装
+appdirs==1.4.3
+buildozer==0.34
+certifi==2018.8.24
+chardet==3.0.4
+colorama==0.3.9
+docutils==0.14
+idna==2.7
+Jinja2==2.10
+Kivy==1.10.1
+Kivy-examples==1.10.1
+Kivy-Garden==0.1.4
+kivy.deps.angle==0.1.7
+kivy.deps.glew==0.1.10
+kivy.deps.gstreamer==0.1.13
+kivy.deps.sdl2==0.1.18
+MarkupSafe==1.0
+pexpect==4.6.0
+ptyprocess==0.6.0
+Pygments==2.2.0
+pypiwin32==223
+pywin32==223
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
+virtualenv==16.0.0
